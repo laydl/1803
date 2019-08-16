@@ -2,5 +2,6 @@
 
 int main()
 {
-  return 0;
+	int d = add(a + b);
+  	return 0;
 }
